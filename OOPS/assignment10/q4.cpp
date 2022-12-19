@@ -1,0 +1,1 @@
+// 4.WAP to demonstrate use of pure virtual function and abstract base class.

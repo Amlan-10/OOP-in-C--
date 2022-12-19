@@ -1,0 +1,32 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "*.tcc": "c",
+        "string": "c",
+        "stdio.h": "c",
+        "array": "c",
+        "string_view": "c",
+        "ostream": "cpp",
+        "typeinfo": "cpp",
+        "stdlib.h": "c",
+        "malloc.h": "c",
+        "DSA_LAB_8_Q1.C": "cpp",
+        "DSA_LAB_8_Q2.C": "cpp",
+        "DSA_LAB_7_Q3.C": "cpp",
+        "DSA_LAB_7_Q10.C": "cpp",
+        "DSA_LAB_7_Q4.C": "cpp",
+        "DSA_LAB_9_Q1.C": "cpp",
+        "DSA_LAB_9_Q2.C": "cpp",
+        "DSA_LAB_9_Q3.C": "cpp",
+        "DSA_LAB_9_Q4.C": "cpp",
+        "DSA_LAB_9_Q12.C": "cpp",
+        "DSA_LAB_9_Q11.C": "cpp",
+        "DSA_LAB_9_Q9.C": "cpp",
+        "DSA_LAB_9_Q8.C": "cpp",
+        "DSA_LAB_9_Q7.C": "cpp",
+        "DSA_LAB_9_Q6.C": "cpp",
+        "DSA_LAB_9_Q5.C": "cpp",
+        "DSA_LAB_7_Q5.C": "cpp",
+        "DSA_LAB_7_Q6.C": "cpp"
+    }
+}
